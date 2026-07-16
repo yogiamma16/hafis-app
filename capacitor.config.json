@@ -1,0 +1,9 @@
+{
+  "appId": "id.hafis.app",
+  "appName": "HAFIS.NET",
+  "webDir": "www",
+  "server": {
+    "url": "https://voc.hafis.web.id/",
+    "cleartext": false
+  }
+}
